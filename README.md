@@ -1,2 +1,2 @@
 # chickencoop
-Raspberry controller for my chickencoop.
+Raspberry ZERO controller for my chickencoop.
